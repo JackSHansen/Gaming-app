@@ -53,7 +53,7 @@ https://api.rawg.io/api/games?key=c7bc67596b634837a361aa095fbdfd2d
   * Genre
   * Rating
 
-### ⭐ Favoritter (valgfri)
+### ⭐ Favoritter
 
 * Mulighed for at gemme spil
 * Gemmes i localStorage
