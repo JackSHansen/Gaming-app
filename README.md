@@ -25,9 +25,8 @@ Applikationen vil hente data fra et eksternt API og præsentere det i et brugerv
 Projektet benytter RAWG Video Games Database API til at hente data om computerspil.
 
 ```
-https://api.rawg.io/api/games?key=DIN_API_KEY
+https://api.rawg.io/api/games?key=c7bc67596b634837a361aa095fbdfd2d
 ```
-API key: c7bc67596b634837a361aa095fbdfd2d
 
 ---
 
