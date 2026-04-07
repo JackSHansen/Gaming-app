@@ -27,6 +27,7 @@ Projektet benytter RAWG Video Games Database API til at hente data om computersp
 ```
 https://api.rawg.io/api/games?key=DIN_API_KEY
 ```
+API key: c7bc67596b634837a361aa095fbdfd2d
 
 ---
 
