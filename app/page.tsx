@@ -288,7 +288,6 @@ export default function HomePage() {
 
         <div className={styles.content}>
           <section className={styles.hero}>
-            <div className={styles.eyebrow}>Mobile-first gaming experience</div>
             <h1 className={styles.heroTitle}>Discover Amazing Games</h1>
             <p className={styles.heroText}>
               Find your next favorite game from RAWG, search dynamically, and keep your shortlist
