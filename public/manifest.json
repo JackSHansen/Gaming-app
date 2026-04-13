@@ -1,0 +1,25 @@
+{
+  "name": "GameFinder",
+  "short_name": "GameFinder",
+  "description": "En mobilvenlig gaming-app til at udforske, søge og gemme spil fra RAWG.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#111a2f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/gamefinder-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/gamefinder-icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

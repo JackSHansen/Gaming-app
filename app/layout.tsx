@@ -14,7 +14,9 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: 'GameFinder',
-  description: 'A mobile-first gaming discovery app powered by RAWG.'
+  description: 'A mobile-first gaming discovery app powered by RAWG.',
+  manifest: '/manifest.json',
+  themeColor: '#111a2f'
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

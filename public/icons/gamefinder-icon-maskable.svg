@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>GameFinder maskable icon</title>
+  <desc>Maskable version of the GameFinder icon with generous padding.</desc>
+  <rect width="512" height="512" rx="128" fill="#0b1220"/>
+  <rect x="56" y="56" width="400" height="400" rx="112" fill="#6b6dff"/>
+  <path d="M172 230c0-18.8 15.2-34 34-34h100c18.8 0 34 15.2 34 34v56c0 18.8-15.2 34-34 34h-18l-40 40c-5.5 5.5-14.5 5.5-20 0l-40-40h-82c-18.8 0-34-15.2-34-34v-56z" fill="#fff"/>
+  <path d="M198 258h28m-14-14v28m86-14h28m-14-14v28" stroke="#6b6dff" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="312" cy="244" r="11" fill="#6b6dff"/>
+  <circle cx="336" cy="268" r="11" fill="#6b6dff"/>
+</svg>

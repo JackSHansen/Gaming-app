@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>GameFinder icon</title>
+  <desc>Blue rounded square with a white gamepad symbol.</desc>
+  <rect width="512" height="512" rx="120" fill="#6b6dff"/>
+  <rect x="72" y="72" width="368" height="368" rx="92" fill="#2f5fff" opacity="0.38"/>
+  <path d="M163 222c0-22.1 17.9-40 40-40h106c22.1 0 40 17.9 40 40v68c0 22.1-17.9 40-40 40h-21l-37 37c-6.2 6.2-16.2 6.2-22.4 0l-37-37h-88c-22.1 0-40-17.9-40-40v-68z" fill="#fff"/>
+  <path d="M193 252h34m-17-17v34m93-17h34m-17-17v34" stroke="#6b6dff" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="314" cy="236" r="12" fill="#6b6dff"/>
+  <circle cx="340" cy="262" r="12" fill="#6b6dff"/>
+</svg>
