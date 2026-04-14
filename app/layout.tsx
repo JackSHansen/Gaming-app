@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Manrope, Space_Grotesk } from 'next/font/google';
 import './globals.scss';
 
@@ -15,7 +15,10 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: 'GameFinder',
   description: 'A mobile-first gaming discovery app powered by RAWG.',
-  manifest: '/manifest.json',
+  manifest: '/manifest.json'
+};
+
+export const viewport: Viewport = {
   themeColor: '#111a2f'
 };
 
